@@ -128,7 +128,7 @@ This page is useful for operational teams.
 ## 📷 Dashboard Preview
 
 ### 🏠 Home View
-![Call Centre Dashboard - Home](Images/home_dashboard_preview.png)
+[![Call Centre Dashboard - Home](Images/home_dashboard_preview.png)](https://github.com/anand193/-Call-Centre-Performance-Dashboard-Power-BI/blob/main/Dashboard%20Home%20Grid%20preview.png)
 
 ### 📊 Grid View
 ![Call Centre Dashboard - Grid](Images/grid_dashboard_preview.png)
