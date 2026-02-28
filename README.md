@@ -131,7 +131,7 @@ This page is useful for operational teams.
 https://github.com/anand193/-Call-Centre-Performance-Dashboard-Power-BI/blob/main/Dashboard%20Home%20page%20preview.png
 
 ### 📊 Grid View
-[![Call Centre Dashboard - Grid](Images/grid_dashboard_preview.png)](https://github.com/anand193/-Call-Centre-Performance-Dashboard-Power-BI/blob/main/Dashboard%20Home%20Grid%20preview.png)
+https://github.com/anand193/-Call-Centre-Performance-Dashboard-Power-BI/blob/main/Dashboard%20%20Grid%20Page%20preview.png
 
 ---
 
